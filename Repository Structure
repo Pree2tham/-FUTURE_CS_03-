@@ -1,0 +1,9 @@
+WiFi-Security-Assessment/
+│
+├── README.md
+├── report.md
+├── nmap_scan.txt
+├── wireshark_capture.pcapng
+└── screenshots/
+    ├── nmap_scan.png
+    └── wireshark_traffic.png
